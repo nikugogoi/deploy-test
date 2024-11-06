@@ -8,6 +8,8 @@ export default function Home() {
           Welcome to <a href="https://www.laconic.com/">Laconic!</a>
         </h1>
 
+        <h2>Deployed from deploy.laconic.com</h2>
+
         <div className={styles.grid}>
 
         <p className={styles.card}>
